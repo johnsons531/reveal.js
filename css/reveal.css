@@ -563,6 +563,7 @@ body {
 .reveal .slides>section>section {
 	display: none;
 	position: absolute;
+	top: -5px;
 	width: 100%;
 	min-height: 600px;
 

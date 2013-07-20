@@ -56,7 +56,7 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  margin: 0 0 20px 0;
+  margin: 0;
   color: #f05b62;
   font-family: "Gotham-Bold", Impact, sans-serif;
   line-height: 0.9em;
